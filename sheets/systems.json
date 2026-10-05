@@ -1,0 +1,16 @@
+{
+  "system": "village_emerald_run",
+  "host_game": "resident-evil-4",
+  "host_engine": "reengine",
+  "loader": "reframework",
+  "loader_installed_by_melty": true,
+  "related_game": "custom-sonic-frontiers",
+  "related_game_required": false,
+  "related_files_shipped": false,
+  "players": 1,
+  "multiplayer": false,
+  "first_scene": "village clearing, course planted by the player along their facing",
+  "win": "reach the emerald after the gate has started the timer",
+  "combat": "handgun aim and fire stay on the game; the script never disables weapons",
+  "music": "current RE4 chapter track; gate start requests a pitch-up, and the overlay says if that hook is missing"
+}

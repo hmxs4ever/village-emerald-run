@@ -1,0 +1,38 @@
+[
+  {
+    "id": "boost",
+    "input": "Left Shift",
+    "vk": 16,
+    "consumes_input": false,
+    "speed_mps": 9.0,
+    "verified": true,
+    "notes": "Adds forward motion on the body transform. Does not hook the weapon or aim."
+  },
+  {
+    "id": "plant_course",
+    "input": "F6",
+    "vk": 117,
+    "consumes_input": false,
+    "speed_mps": 0,
+    "verified": true,
+    "notes": "Plants or replants the course from Leon's facing."
+  },
+  {
+    "id": "reset_run",
+    "input": "F7",
+    "vk": 118,
+    "consumes_input": false,
+    "speed_mps": 0,
+    "verified": true,
+    "notes": "Clears rings, timer, and emerald. Leaves the planted course."
+  },
+  {
+    "id": "handgun",
+    "input": "game aim and fire",
+    "vk": 0,
+    "consumes_input": false,
+    "speed_mps": 0,
+    "verified": true,
+    "notes": "Untouched. Player can shoot ganados while boost is held."
+  }
+]

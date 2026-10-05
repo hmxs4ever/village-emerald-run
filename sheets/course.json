@@ -1,0 +1,74 @@
+[
+  {
+    "id": "plant",
+    "kind": "anchor",
+    "key": "F6",
+    "distance_m": 0,
+    "radius_m": 0,
+    "verified": true,
+    "notes": "Snapshots body position and facing. Lays the trail in front of Leon."
+  },
+  {
+    "id": "ring_1",
+    "kind": "ring",
+    "key": "",
+    "distance_m": 6,
+    "radius_m": 1.6,
+    "verified": true,
+    "notes": "Gold world marker. Collected on enter. Does not stop shooting."
+  },
+  {
+    "id": "ring_2",
+    "kind": "ring",
+    "key": "",
+    "distance_m": 12,
+    "radius_m": 1.6,
+    "verified": true,
+    "notes": "Gold world marker."
+  },
+  {
+    "id": "ring_3",
+    "kind": "ring",
+    "key": "",
+    "distance_m": 18,
+    "radius_m": 1.6,
+    "verified": true,
+    "notes": "Gold world marker."
+  },
+  {
+    "id": "gate",
+    "kind": "gate",
+    "key": "",
+    "distance_m": 24,
+    "radius_m": 3.0,
+    "verified": true,
+    "notes": "Cyan marker. Entering starts the timer and requests a faster pitch on the current RE4 track."
+  },
+  {
+    "id": "ring_4",
+    "kind": "ring",
+    "key": "",
+    "distance_m": 32,
+    "radius_m": 1.6,
+    "verified": true,
+    "notes": "Gold world marker on the timed stretch."
+  },
+  {
+    "id": "ring_5",
+    "kind": "ring",
+    "key": "",
+    "distance_m": 40,
+    "radius_m": 1.6,
+    "verified": true,
+    "notes": "Gold world marker on the timed stretch."
+  },
+  {
+    "id": "emerald",
+    "kind": "emerald",
+    "key": "",
+    "distance_m": 48,
+    "radius_m": 2.5,
+    "verified": true,
+    "notes": "Green marker. Ends the run if the gate was crossed."
+  }
+]
